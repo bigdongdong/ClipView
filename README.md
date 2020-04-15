@@ -3,6 +3,6 @@
 
 # 截图预览
 ## 自适应图片显示
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/tree/master/preview/heng.jpg"></img></br>
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/tree/master/preview/shu.jpg"></img></br>
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/tree/master/preview/fang.jpg"></img></br>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/heng.jpg"></img>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/shu.jpg"></img>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/fang.jpg"></img></br>
