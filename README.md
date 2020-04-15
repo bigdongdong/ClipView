@@ -30,4 +30,18 @@
 
 # 使用说明
 ## xml :
+```xml
+	<com.cxd.clipview.ClipImageView
+		android:id="@+id/civ"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+```
 ## java :
+```java
+	civ = findViewById(R.id.civ);
+        civ.setCropWindowSize(400,400);         //设置需要裁减的尺寸，单位：px
+        Glide.with(this).load().into(civ);      //选择喜欢的图片加载框架
+	
+	civ.getCropBitmap();       		//获取裁减后的源bitmap
+        civ.getCropBitmapWithZip(); 		//获取裁剪并进行尺寸压缩后的bitmap
+```
