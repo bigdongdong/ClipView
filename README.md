@@ -13,9 +13,9 @@
 
 ## 移动、缩放和边界回弹
 
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/pre.mp4"></img>
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/scale.mp4"></img>
-<img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/springback.mp4"></img></br>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/pre.gif"></img>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/scale.gif"></img>
+<img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/springback.gif"></img></br>
 
 # 项目配置
 
