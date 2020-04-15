@@ -12,3 +12,22 @@
 <img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/pre.mp4"></img>
 <img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/scale.mp4"></img>
 <img  width = "450" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/springback.mp4"></img></br>
+
+# 项目配置
+
+```
+  allprojects {
+      repositories {
+          ...
+          maven { url 'https://jitpack.io' }  //添加jitpack仓库
+      }
+  }
+  
+  dependencies {
+	  implementation 'com.github.bigdongdong:ClipView:1.0' //添加依赖
+  }
+```
+
+# 使用说明
+## xml :
+## java :
