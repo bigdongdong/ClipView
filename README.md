@@ -1,6 +1,9 @@
 # ClipView
 轻量型图片裁剪框架，自适应图片显示，支持移动缩放，边界回弹，宽高尺寸压缩
 
+# demo下载
+[clipview.apk](https://github.com/bigdongdong/ClipView/blob/master/preview/clipview.apk)
+
 # 截图预览
 ## 自适应图片显示（横图、竖图、方图）
 <img  width = "300" src = "https://github.com/bigdongdong/ClipView/blob/master/preview/heng.jpg"></img>
