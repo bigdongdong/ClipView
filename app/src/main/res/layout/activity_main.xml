@@ -6,12 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
 
-    android:background="#CCCCCC"
+    android:background="#FFFFFF"
     >
 
     <com.cxd.clipview.ClipImageView
         android:id="@+id/clipImageView"
-        android:background="#FFFFFF"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerInParent="true"
