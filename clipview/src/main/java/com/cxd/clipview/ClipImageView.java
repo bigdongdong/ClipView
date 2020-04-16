@@ -54,7 +54,7 @@ public class ClipImageView extends android.support.v7.widget.AppCompatImageView 
 
     private float mMinScale = 0f; //最小缩放值
 
-    /*默认5倍 ，有可能出现图片过小，mMinScale > 0 的情况，需要保证 mMaxScale 恒 >= mMinScale*/
+    /*有可能出现图片过小，mMinScale > 0 的情况，则保证 mMaxScale 恒 >= mMinScale*/
     private float mMaxScale = 0f; //最大缩放值
 
     private ValueAnimator mAnimator ; //边界回弹动画
