@@ -28,7 +28,7 @@
   }
   
   dependencies {
-	  implementation 'com.github.bigdongdong:ClipView:1.0' //添加依赖
+	  implementation 'com.github.bigdongdong:ClipView:1.1' //添加依赖
   }
 ```
 
